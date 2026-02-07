@@ -1,0 +1,6 @@
+[package]
+name = "YWCC307_HW1_HannahRepuyan"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
